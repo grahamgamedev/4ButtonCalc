@@ -1,0 +1,24 @@
+<settings>
+
+    <setting propertyKey="@Properties.dark_theme" title="Dark Theme">    
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.accent_color" title="Accent Color">
+        <settingConfig type="list">
+            <listEntry value="1">Red</listEntry>
+            <listEntry value="2">Orange</listEntry>
+            <listEntry value="3">Yellow</listEntry>
+            <listEntry value="4">Green</listEntry>
+            <listEntry value="5">Blue</listEntry>
+            <listEntry value="6">Purple</listEntry>
+            <listEntry value="7">Pink</listEntry>
+            <listEntry value="8">Dark Red</listEntry>
+            <listEntry value="9">Dark Green</listEntry>
+            <listEntry value="10">Dark Blue</listEntry>
+            <listEntry value="11">Dark Gray</listEntry>
+            <listEntry value="12">Light Gray</listEntry>
+        </settingConfig>
+    </setting>
+
+</settings>

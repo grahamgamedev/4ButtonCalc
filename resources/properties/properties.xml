@@ -1,0 +1,6 @@
+<properties>
+
+    <property id="dark_theme" type="boolean">true</property>
+    <property id="accent_color" type="number">4</property>
+    
+</properties>
